@@ -1,4 +1,0 @@
-﻿CARDSIZE = 6.35, 8.89
-
-LinkMulti = Amount
-Link=C:\Users\edwar\OneDrive\Documents\Odeyssy\nandeck\god powers\god powers.xlsx
