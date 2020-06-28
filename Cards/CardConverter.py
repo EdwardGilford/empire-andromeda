@@ -1,5 +1,4 @@
 #Program to convert between the long html link to an icon (for credits, dice, etc) on the spreadsheet and a nice little latex-y shortcut
-#unfinished
 
 import pandas as pd
 
