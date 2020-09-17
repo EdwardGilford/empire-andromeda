@@ -1,7 +1,8 @@
 ﻿CARDSIZE = 6.35, 8.89
 
 LinkMulti = Amount
-Link=C:\Users\edwar\OneDrive\Documents\Rook\cards\ea_card.xlsx
+
+Link= D:\Documents\empire-andromeda\Cards\tim_card_for_nandeck.csv
 VISUAL=, 10, 10
 ;Template
 IMAGE="1-{(TEMPLATE)}",[TEMPLATE],-0.179%,0%,100%,100%,0,N
